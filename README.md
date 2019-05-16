@@ -3,7 +3,7 @@ This is a addon car that I´ve converted. Original car : https://www.gta5-mods.c
 
 Installation
 
-Step 1 : Download the resource and excract / place in the FiveM server resource folder
+Step 1 : Download the resource and extract / place in the FiveM server resource folder
 
 Step 2 : Add start Chevrolet Corvette in your Server.cfg
 
